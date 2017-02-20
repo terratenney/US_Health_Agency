@@ -18,7 +18,9 @@ git push origin master
 
 
 To add kevin: git remote add zhuohua git@github.com:zhuohuwu0603/US_Health_Agency.git
+
 git fetch zhuohua master 
+
 git merge zhuohua/master
 
 
