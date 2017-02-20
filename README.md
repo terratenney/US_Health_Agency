@@ -11,3 +11,10 @@ Jupyter notebook:
 
 http://localhost:8888/notebooks/Documents/weiyi_codes/python_codes/US_Health_Agency/code/HealthDataAnalysis_Feb16.ipynb
 
+
+
+
+git clone git@github.com:w38huang/US_Health_Agency.git
+
+git push origin master
+
